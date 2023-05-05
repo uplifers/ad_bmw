@@ -1,0 +1,17 @@
+{
+    "version": "1.0",
+    "uniqueId": "970x250_BMWi_28042023",
+    "title": "970x250_BMWi_28042023",
+    "description": "",
+    "width": 970,
+    "height": 250,
+    "events": {
+        "enabled": 0,
+        "list": {
+        }
+    },
+    "clicktags": {
+        "clickTAG": "http:\/\/www.bmw.com.tr"
+    },
+    "source": "index.html"
+}
